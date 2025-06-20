@@ -1,0 +1,5 @@
+{
+  "appclips": {
+    "apps": ["com.W-RLDS-Technology-Inc.W-RLDS.Clip"]
+  }
+}
